@@ -1,0 +1,40 @@
+
+.section2{
+    background: #F4F7FA;
+}
+.banner1{
+    height: 550px;
+    width: 100%;
+}
+.airbuds{
+    background: url(../imges/Oval2.svg) no-repeat bottom right;
+}
+.airbuds2{
+    background: url(../imges/Oval.svg) no-repeat bottom right
+}
+.section3{
+    background: #473BF0;
+
+}   
+.bakground{
+    background: #161C2D;
+}
+.wave-back{
+    background: url(../imges/Music\ Wave\ 2.svg) no-repeat top;
+}
+.footer{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    text-align: center;
+    gap: 35px;
+}
+.footer li{
+    list-style-type: none;
+   
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
